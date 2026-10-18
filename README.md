@@ -50,25 +50,12 @@
 Python & SQL
     └── Data analysis and manipulation
           └── Data cleaning and pipelines
-                └── Machine learning
-                      └── AI engineering
-                            └── LLMs, RAG and APIs
-                                  └── Production-ready systems
+                └── Gen AI
 ```
 
 My approach: understand the fundamentals, build practical projects, test assumptions, and improve through iteration.
 
-
-
-</div>## `05` — Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KrishKumar-DS/KrishKumar-DS/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
-## `06` — Principles
+## `04` — Principles
 
 ```text
 01. Understand the problem before writing code.
