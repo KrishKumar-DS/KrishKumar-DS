@@ -17,7 +17,7 @@
 ## `01` — About Me
 
 - 🎓 BCA student building a foundation in programming and data science.
-- 🧠 Interested in Data Analyst<!--Data Science-->, <!-- Machine Learning -->, AI Engineering, and LLM applications.
+- 🧠 Interested in Data Analyst, Generative AI ,  AI Engineering, and LLM applications.
 - ⚙️ Learning to design reliable data pipelines, APIs, and intelligent systems.
 - 📈 Focused on analytical thinking, problem-solving, and continuous improvement.
 - 🎯 Long-term goal: build systems that transform data into actionable insights.
@@ -30,9 +30,9 @@
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
 
-**Data Science & AI — Exploring**
+**Data Analysis— Exploring**
 
-<!-- ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF) -->
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF) 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
 <!-- ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E) -->
 <!-- ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C) -->
@@ -57,7 +57,6 @@
 - 🔌 APIs and AI-powered applications
 
 
-
 My approach: understand the fundamentals, build practical projects, test assumptions, and improve through iteration.
 
 ## `04` — Principles
@@ -66,8 +65,8 @@ My approach: understand the fundamentals, build practical projects, test assumpt
 01. Understand the problem before writing code.
 02. Prefer reproducible workflows over manual repetition.
 03. Build systems, not just isolated scripts.
-04. Measure results instead of assuming success.
-05. Keep learning. Keep building. Keep improving.
+04. Validate assumptions with evidence.
+05. Prioritize clarity, reliability, and maintainability.
 ```
 
 ---
