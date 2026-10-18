@@ -17,7 +17,7 @@
 ## `01` — About Me
 
 - 🎓 BCA student building a foundation in programming and data science.
-- 🧠 Interested in Data Science, Machine Learning, AI Engineering, and LLM applications.
+- 🧠 Interested in Data Analyst<!--Data Science-->, <!-- Machine Learning -->, AI Engineering, and LLM applications.
 - ⚙️ Learning to design reliable data pipelines, APIs, and intelligent systems.
 - 📈 Focused on analytical thinking, problem-solving, and continuous improvement.
 - 🎯 Long-term goal: build systems that transform data into actionable insights.
