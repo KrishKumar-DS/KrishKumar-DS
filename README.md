@@ -28,7 +28,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+<!--![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)-->
 
 **Data Analysis— Learning**
 
