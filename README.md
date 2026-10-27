@@ -62,11 +62,11 @@ My approach: understand the fundamentals, build practical projects, test assumpt
 ## `04` — Principles
 
 ```text
-01. Understand the problem before writing code.
-02. Prefer reproducible workflows over manual repetition.
-03. Build systems, not just isolated scripts.
-04. Validate assumptions with evidence.
-05. Prioritize clarity, reliability, and maintainability.
+- Figure out what needs to be solved before deciding how to solve it.
+- Don't repeat manually what can be automated.
+- Make things that are useful beyond a single use case.
+- Test what works instead of assuming it does.
+- Keep things simple enough to understand and change.
 ```
 
 ---
