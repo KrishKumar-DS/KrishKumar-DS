@@ -20,7 +20,6 @@
 - 🧠 Interested in Applied AI, Machine Learning, Generative AI, and AI Engineering.
 - ⚙️ Learning to build intelligent applications, integrate AI models, and engineer reliable systems.
 - 🔬 Interested in understanding how AI models work and how they can solve real-world problems.
-- 🎯 Long-term goal: become an AI Engineer capable of designing and building scalable intelligent systems.
 
 ## `02` — Tech Stack
 
