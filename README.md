@@ -8,7 +8,7 @@
 
 *Building intelligent applications and engineering practical software systems.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+Python;Machine+Learning+%26+Deep+Learning;Developing+LLM-powered+Applications;AI+Engineering+%26+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+Python;Exploring+Machine+Learning;Developing+LLM-powered+Applications;AI+Engineering+%26+System+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,34 +18,48 @@
 
 - 🎓 BCA student focused on Computer Science and Software Engineering.
 - 🧠 Interested in Applied AI, Machine Learning, Generative AI, and AI Engineering.
-- ⚙️ Working with Python, AI model integrations, and intelligent application development.
-- 🔬 Interested in AI model architectures, LLM-based systems, and real-world AI applications.
+- ⚙️ Focused on Python programming, intelligent application development, and AI integrations.
+- 🔬 Exploring LLM-based systems, AI agents, and practical AI architectures.
 
 ## `02` — Tech Stack
 
-**Programming Languages**
+**Programming Languages - Learning**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
 
-**Data & Machine Learning**
+**AI & Machine Learning - Learning**
 
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-
-**AI Development**
-
-![OpenAI](https://img.shields.io/badge/LLM_APIs-0d1117?style=flat-square&logo=openai&logoColor=FFFFFF)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+
+**AI Engineering & Development - Learning**
+
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-0d1117?style=flat-square&logo=openai&logoColor=FFFFFF)
+![MCP](https://img.shields.io/badge/MCP_Servers-0d1117?style=flat-square&logoColor=FFFFFF)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=58A6FF)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logoColor=58A6FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 
-**Tools & Engineering**
+**AI-Assisted Development - Exploring**
+
+![OpenCode](https://img.shields.io/badge/OpenCode-0d1117?style=flat-square&logoColor=FFFFFF)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-0d1117?style=flat-square&logoColor=58A6FF)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&logoColor=58A6FF)
+
+**Tools & Software Engineering - Learning**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+
 
 ## `03` — Technical Focus
 
@@ -56,11 +70,11 @@
 - ⚙️ Software Engineering and System Design
 
 **Artificial Intelligence**
-- 🧠 Machine Learning and Mathematical Foundations
-- 🤖 Deep Learning and Neural Networks
+- 🧠 Machine Learning and Deep Learning
+- 🤖 Neural Networks and Model Architectures
 - 🧬 Generative AI and Large Language Models
-- 🔌 APIs, RAG, and AI-powered Applications
-- ⚡ AI Agents, Automation, and AI-assisted Development
+- 🔌 LLM APIs, RAG, and AI-powered Applications
+- ⚡ AI Agents, MCP Servers, and Automation
 
 My approach: understand the fundamentals, build practical projects, experiment with emerging technologies, and engineer systems that solve real-world problems.
 
